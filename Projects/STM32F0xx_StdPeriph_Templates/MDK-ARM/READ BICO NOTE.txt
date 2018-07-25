@@ -1,0 +1,4 @@
+Friday, June 29 2018
+
+This Template was modified by BICO suitable with STM32F030F4P6 Kit board
+The main.c was written to Blinking the PA4 pin (the LED build in STM32F030F4P6 Kit board)
