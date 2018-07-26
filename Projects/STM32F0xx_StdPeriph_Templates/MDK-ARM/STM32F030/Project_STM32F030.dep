@@ -76,9 +76,9 @@ I (..\Bico_Lib\Bico_STM32F0_Generic.h)(0x5B55D0BA)
 I (..\delay\delay.h)(0x5B56A39C)
 I (..\Bico_Lib\Bico_STM32F0_Gpio.h)(0x5B460C51)
 I (..\Bico_Lib\Bico_STM32F0_Analog.h)(0x5B476001)
-I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B552C57)
+I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B59509E)
 I (..\Bico_Lib1\Algebra_Math.h)(0x5AE03222)
-F (..\Arduino.cpp)(0x5B587D15)(--cpp -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\ -I ..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I ..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc -I ..\..\..\Libraries\STM32F0xx_CPAL_Driver\inc -I ..\..\..\Libraries\CMSIS\Include -I ..\Bico_Lib -I ..\Bico_Lib1 -I ..\delay -I ..\..\STM32F0xx_StdPeriph_Templates --cpp-I E:\MicroController\STM\STM32\STM32F0\BICO_STM32F0xx_StdPeriph_Lib_V1.5.0_STM32F030F4P6_Kit_board\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520" -DSTM32F030x6 -DUSE_STDPERIPH_DRIVER -DSTM32F030 -DUSE_DEFAULT_TIMEOUT_CALLBACK-o stm32f030\arduino.o --omf_browse stm32f030\arduino.crf --depend stm32f030\arduino.d)
+F (..\Arduino.cpp)(0x5B594F58)(--cpp -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\ -I ..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I ..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc -I ..\..\..\Libraries\STM32F0xx_CPAL_Driver\inc -I ..\..\..\Libraries\CMSIS\Include -I ..\Bico_Lib -I ..\Bico_Lib1 -I ..\delay -I ..\..\STM32F0xx_StdPeriph_Templates --cpp-I E:\MicroController\STM\STM32\STM32F0\BICO_STM32F0xx_StdPeriph_Lib_V1.5.0_STM32F030F4P6_Kit_board\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520" -DSTM32F030x6 -DUSE_STDPERIPH_DRIVER -DSTM32F030 -DUSE_DEFAULT_TIMEOUT_CALLBACK-o stm32f030\arduino.o --omf_browse stm32f030\arduino.crf --depend stm32f030\arduino.d)
 I (..\Arduino.h)(0x5B55BDFF)
 I (..\main.h)(0x5B5545D0)
 I (..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5B365E28)
@@ -115,9 +115,8 @@ I (..\Bico_Lib\Bico_STM32F0_Generic.h)(0x5B55D0BA)
 I (..\delay\delay.h)(0x5B56A39C)
 I (..\Bico_Lib\Bico_STM32F0_Gpio.h)(0x5B460C51)
 I (..\Bico_Lib\Bico_STM32F0_Analog.h)(0x5B476001)
-I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B552C57)
+I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B59509E)
 I (..\Bico_Lib1\Algebra_Math.h)(0x5AE03222)
-I (..\Bico_Lib\Bico_STM32F0_SPI1.h)(0x5B574116)
 F (..\main.cpp)(0x5B55D01A)(--cpp -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\ -I ..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I ..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc -I ..\..\..\Libraries\STM32F0xx_CPAL_Driver\inc -I ..\..\..\Libraries\CMSIS\Include -I ..\Bico_Lib -I ..\Bico_Lib1 -I ..\delay -I ..\..\STM32F0xx_StdPeriph_Templates --cpp-I E:\MicroController\STM\STM32\STM32F0\BICO_STM32F0xx_StdPeriph_Lib_V1.5.0_STM32F030F4P6_Kit_board\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520" -DSTM32F030x6 -DUSE_STDPERIPH_DRIVER -DSTM32F030 -DUSE_DEFAULT_TIMEOUT_CALLBACK-o stm32f030\main.o --omf_browse stm32f030\main.crf --depend stm32f030\main.d)
 I (..\Arduino.h)(0x5B55BDFF)
 I (..\main.h)(0x5B5545D0)
@@ -155,7 +154,7 @@ I (..\Bico_Lib\Bico_STM32F0_Generic.h)(0x5B55D0BA)
 I (..\delay\delay.h)(0x5B56A39C)
 I (..\Bico_Lib\Bico_STM32F0_Gpio.h)(0x5B460C51)
 I (..\Bico_Lib\Bico_STM32F0_Analog.h)(0x5B476001)
-I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B552C57)
+I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B59509E)
 I (..\Bico_Lib1\Algebra_Math.h)(0x5AE03222)
 F (..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\src\stm32f0xx_pwr.c)(0x54808D13)(--c99 -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\ -I ..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I ..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc -I ..\..\..\Libraries\STM32F0xx_CPAL_Driver\inc -I ..\..\..\Libraries\CMSIS\Include -I ..\Bico_Lib -I ..\Bico_Lib1 -I ..\delay -I ..\..\STM32F0xx_StdPeriph_Templates --cpp-I E:\MicroController\STM\STM32\STM32F0\BICO_STM32F0xx_StdPeriph_Lib_V1.5.0_STM32F030F4P6_Kit_board\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520" -DSTM32F030x6 -DUSE_STDPERIPH_DRIVER -DSTM32F030 -DUSE_DEFAULT_TIMEOUT_CALLBACK-o stm32f030\stm32f0xx_pwr.o --omf_browse stm32f030\stm32f0xx_pwr.crf --depend stm32f030\stm32f0xx_pwr.d)
 I (..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_pwr.h)(0x54808D10)
@@ -788,7 +787,7 @@ I (..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_wwdg.h)(0x54808D1
 I (..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h)(0x54808D10)
 I (..\Bico_Lib\Bico_STM32F0_Gpio.h)(0x5B460C51)
 I (..\Bico_Lib\Bico_STM32F0_Analog.h)(0x5B476001)
-I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B552C57)
+I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B59509E)
 I (..\Bico_Lib1\Algebra_Math.h)(0x5AE03222)
 F (..\Bico_Lib\Bico_STM32F0_Gpio.cpp)(0x5B44E247)(--cpp -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\ -I ..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I ..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc -I ..\..\..\Libraries\STM32F0xx_CPAL_Driver\inc -I ..\..\..\Libraries\CMSIS\Include -I ..\Bico_Lib -I ..\Bico_Lib1 -I ..\delay -I ..\..\STM32F0xx_StdPeriph_Templates --cpp-I E:\MicroController\STM\STM32\STM32F0\BICO_STM32F0xx_StdPeriph_Lib_V1.5.0_STM32F030F4P6_Kit_board\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520" -DSTM32F030x6 -DUSE_STDPERIPH_DRIVER -DSTM32F030 -DUSE_DEFAULT_TIMEOUT_CALLBACK-o stm32f030\bico_stm32f0_gpio.o --omf_browse stm32f030\bico_stm32f0_gpio.crf --depend stm32f030\bico_stm32f0_gpio.d)
 I (..\Bico_Lib\Bico_STM32F0_Gpio.h)(0x5B460C51)
@@ -823,7 +822,7 @@ I (..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h)(0x54808D
 I (..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_wwdg.h)(0x54808D10)
 I (..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h)(0x54808D10)
 F (..\Bico_Lib\Bico_STM32F0_Serial1.cpp)(0x5B552AFB)(--cpp -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\ -I ..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I ..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc -I ..\..\..\Libraries\STM32F0xx_CPAL_Driver\inc -I ..\..\..\Libraries\CMSIS\Include -I ..\Bico_Lib -I ..\Bico_Lib1 -I ..\delay -I ..\..\STM32F0xx_StdPeriph_Templates --cpp-I E:\MicroController\STM\STM32\STM32F0\BICO_STM32F0xx_StdPeriph_Lib_V1.5.0_STM32F030F4P6_Kit_board\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520" -DSTM32F030x6 -DUSE_STDPERIPH_DRIVER -DSTM32F030 -DUSE_DEFAULT_TIMEOUT_CALLBACK-o stm32f030\bico_stm32f0_serial1.o --omf_browse stm32f030\bico_stm32f0_serial1.crf --depend stm32f030\bico_stm32f0_serial1.d)
-I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B552C57)
+I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B59509E)
 I (..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h)(0x5B365E28)
 I (..\..\..\Libraries\CMSIS\Include\core_cm0.h)(0x5B555343)
 I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x56FE50EE)
@@ -892,7 +891,7 @@ I (..\Bico_Lib\Bico_STM32F0_Generic.h)(0x5B55D0BA)
 I (..\delay\delay.h)(0x5B56A39C)
 I (..\Bico_Lib\Bico_STM32F0_Gpio.h)(0x5B460C51)
 I (..\Bico_Lib\Bico_STM32F0_Analog.h)(0x5B476001)
-I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B552C57)
+I (..\Bico_Lib\Bico_STM32F0_Serial1.h)(0x5B59509E)
 I (..\Bico_Lib1\Algebra_Math.h)(0x5AE03222)
 F (..\Bico_Lib1\Algrbra_Math.cpp)(0x5AE03222)(--cpp -c --cpu Cortex-M0 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\ -I ..\..\..\Libraries\CMSIS\Device\ST\STM32F0xx\Include -I ..\..\..\Libraries\STM32F0xx_StdPeriph_Driver\inc -I ..\..\..\Libraries\STM32F0xx_CPAL_Driver\inc -I ..\..\..\Libraries\CMSIS\Include -I ..\Bico_Lib -I ..\Bico_Lib1 -I ..\delay -I ..\..\STM32F0xx_StdPeriph_Templates --cpp-I E:\MicroController\STM\STM32\STM32F0\BICO_STM32F0xx_StdPeriph_Lib_V1.5.0_STM32F030F4P6_Kit_board\Projects\STM32F0xx_StdPeriph_Templates\MDK-ARM\RTE-I C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="520" -DSTM32F030x6 -DUSE_STDPERIPH_DRIVER -DSTM32F030 -DUSE_DEFAULT_TIMEOUT_CALLBACK-o stm32f030\algrbra_math.o --omf_browse stm32f030\algrbra_math.crf --depend stm32f030\algrbra_math.d)
 I (..\Bico_Lib1\Algebra_Math.h)(0x5AE03222)

@@ -38,4 +38,3 @@ stm32f030\arduino.o: ..\Bico_Lib\Bico_STM32F0_Gpio.h
 stm32f030\arduino.o: ..\Bico_Lib\Bico_STM32F0_Analog.h
 stm32f030\arduino.o: ..\Bico_Lib\Bico_STM32F0_Serial1.h
 stm32f030\arduino.o: ..\Bico_Lib1\Algebra_Math.h
-stm32f030\arduino.o: ..\Bico_Lib\Bico_STM32F0_SPI1.h

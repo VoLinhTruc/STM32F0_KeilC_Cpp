@@ -1,26 +1,15 @@
 #include "Arduino.h"
-#include "Bico_STM32F0_SPI1.h"
 
-uint8_t c = 10;
+char str[] = "Hello World !!!";
 
 void setup()
 {
-	SPI.begin();
 	Serial.begin(57600);
-	
-	pinMode(PA3, OUTPUT);
-	digitalWrite(PA3, HIGH);
 }
 
 void loop()
 {
-	digitalWrite(PA3, LOW);
-	
-	SPI.beginTransaction();
-	Serial.println(SPI.transfer(c++));
-	SPI.endTransaction();
-	
-	digitalWrite(PA3, HIGH);
+	Serial.println("HELLO !!!");
 	
 	delay_ms(1000);
 }
